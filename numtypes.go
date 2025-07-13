@@ -23,3 +23,7 @@ func numtypes() {
 		userName,
 	)
 }
+
+// func main(){
+// 	numtypes()
+// }
