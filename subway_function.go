@@ -26,11 +26,11 @@ func main() {
 
 	// user prompts
 
-	fmt.Println("Enter your name: ")
+	fmt.Print("Enter your name: ")
 	fmt.Scanln(&customerName)
 	fmt.Println("\n")
 
-	fmt.Println("Enter your order: ")
+	fmt.Print("Enter your order: ")
 	fmt.Scanln(&order)
 
 	/*
