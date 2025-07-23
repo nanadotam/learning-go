@@ -21,9 +21,9 @@ func constants() {
 	fmt.Println(msg)
 }
 
-func main() {
-	constants()
-}
+// func main() {
+// 	constants()
+// }
 
 /*
 Formatting verbs:
