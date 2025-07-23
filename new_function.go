@@ -2,6 +2,7 @@ package main
 
 // import "fmt"
 
+// type comes after name of variable
 func concat(s1 string, s2 string) string {
 	return s1 + s2
 }
