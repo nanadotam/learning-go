@@ -15,8 +15,8 @@ func conditionals() {
 	}
 }
 
-func main() {
-	fmt.Println("----------")
-	conditionals()
-	fmt.Println("----------")
-}
+// func main() {
+// 	fmt.Println("----------")
+// 	conditionals()
+// 	fmt.Println("----------")
+// }
